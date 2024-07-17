@@ -1,2 +1,2 @@
 # merustam
-Full stack project
+This is our Full Stack Major Project - Wanderlust
