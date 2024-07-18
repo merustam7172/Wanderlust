@@ -101,9 +101,7 @@ app.use("/",userRouter);
 
 
 
-app.get("/", (req,res) => {
-    res.send("Hii i am root")
-});
+
 
 
 // Error handler middlewears
